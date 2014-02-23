@@ -9,11 +9,14 @@ nav ul li a{
 }
 
 div p{
-	text-align: right;
+	text-align: left;
 }
 .back{
 	background-image: url("../images/landscape-15.jpg");
 }
 .backabout{
 	background-image: url("../images/surreal-15.jpg");
+}
+#name{
+	text-align: right;
 }
