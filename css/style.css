@@ -1,0 +1,19 @@
+body{
+	background-image: "../images/landscape.jpg";
+}
+
+nav ul li a{
+	background: #F2E8DC;
+	color: black;
+	font-size: 20px;
+}
+
+div p{
+	text-align: right;
+}
+.back{
+	background-image: url("../images/landscape-15.jpg");
+}
+.backabout{
+	background-image: url("../images/surreal-15.jpg");
+}
